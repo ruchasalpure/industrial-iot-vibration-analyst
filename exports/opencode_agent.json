@@ -1,8 +1,0 @@
-{
-  "agent_id": "industrial-iot-vibration-analyst",
-  "protocol": "opencode/v1",
-  "capabilities": [
-    "autonomous",
-    "governed"
-  ]
-}

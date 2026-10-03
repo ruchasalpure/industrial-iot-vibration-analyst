@@ -1,4 +1,0 @@
-spec: nanobot/v1
-name: industrial-iot-vibration-analyst
-runtime: python3.11
-entrypoint: agent.py
