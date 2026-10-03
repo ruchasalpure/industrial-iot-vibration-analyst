@@ -1,0 +1,5 @@
+{
+  "name": "industrial-iot-vibration-analyst",
+  "service": "aws-kiro",
+  "version": "1.0.0"
+}

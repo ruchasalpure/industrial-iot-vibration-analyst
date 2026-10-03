@@ -1,0 +1,26 @@
+spec_version: "0.1.0"
+name: "industrial-iot-vibration-analyst"
+version: "1.0.0"
+category: "manufacturing"
+author: "Rucha Salpure"
+description: "Processes tri-axial high-frequency accelerometer telemetry from wind turbine gearboxes to detect inner-race and outer-race bearing fatigue peaks"
+capabilities:
+  - "bearing-fault-frequency-analysis"
+  - "autonomous-decision-making"
+  - "explainable-auditing"
+  - "multi-agent-collaboration"
+skills:
+  - "bearing-fault-frequency-analysis"
+tools:
+  - "python_executor"
+  - "audit_logger"
+  - "schema_validator"
+runtime:
+  environment: "python3.11"
+  memory_limit: "4GB"
+  timeout_seconds: 300
+governance:
+  audit_logging: true
+  human_in_the_loop: false
+  maker_checker: true
+  explainability_required: true
